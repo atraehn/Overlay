@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/anthony/Desktop/Overlay/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/anthony/Desktop/Overlay/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-2b76e11fc58febc6ab1eec70d262209d46db9e90.jar" />
+    </item>
+    <item
+        jar="/home/anthony/Desktop/Overlay/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/anthony/Desktop/Overlay/app/build/intermediates/pre-dexed/debug/classes-e5bda3fbd5870c86e161c2363f5c8f7d59983368.jar" />
+    </item>
+    <item
+        jar="/home/anthony/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/anthony/Desktop/Overlay/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-cbadb20576c6789c48f23af0b239e15c91f962ec.jar" />
+    </item>
+
+</items>

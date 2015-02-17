@@ -1,0 +1,4 @@
+/home/anthony/Desktop/Overlay/app/build/intermediates/classes/debug
+/home/anthony/Desktop/Overlay/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-cbadb20576c6789c48f23af0b239e15c91f962ec.jar
+/home/anthony/Desktop/Overlay/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-2b76e11fc58febc6ab1eec70d262209d46db9e90.jar
+/home/anthony/Desktop/Overlay/app/build/intermediates/pre-dexed/debug/classes-e5bda3fbd5870c86e161c2363f5c8f7d59983368.jar
